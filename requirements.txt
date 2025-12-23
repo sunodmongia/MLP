@@ -31,7 +31,6 @@ gast==0.6.0
 google-auth==2.41.1
 google-auth-oauthlib==1.2.3
 google-pasta==0.2.0
-graphviz @ file:///home/conda/feedstock_root/build_artifacts/python-graphviz_1749998426524/work
 grpcio==1.76.0
 h11==0.16.0
 h5py==3.15.1
@@ -97,9 +96,7 @@ pure_eval==0.2.3
 pyasn1==0.6.1
 pyasn1_modules==0.4.2
 pycparser==2.23
-pydot @ file:///D:/bld/pydot_1756812301106/work
 Pygments==2.19.2
-pyparsing @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_pyparsing_1758436411/work
 python-dateutil==2.9.0.post0
 python-json-logger==4.0.0
 pytz==2025.2

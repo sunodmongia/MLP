@@ -7,6 +7,12 @@ __pycache__/
 *.stores
 *.so
 
+./log
+./model_4
+./model_5
+./my_fashion_mnist
+./my_logs
+./checkpoint.weights.h5
 
 # Distribution / packaging
 .Python
